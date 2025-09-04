@@ -1,0 +1,10 @@
+attrs==25.3.0
+coverage==7.10.4
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+py==1.11.0
+pyparsing==3.2.3
+pytest==8.4.1
+pytest-cov==6.2.1
+tomli==2.2.1
